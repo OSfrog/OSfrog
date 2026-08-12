@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="176" viewBox="0 0 960 176" role="img" aria-labelledby="title desc">
+  <title id="title">Tommy Le, Fullstack Developer</title>
+  <desc id="desc">Tommy Le, Fullstack Developer.</desc>
+  <rect width="960" height="176" rx="8" fill="#0d1117"/>
+  <path d="M0 175H960" stroke="#30363d"/>
+  <text x="2" y="78" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-3">TOMMY LE -</text>
+  <text x="2" y="145" fill="#b8ff65" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-3">FULLSTACK DEVELOPER.</text>
+</svg>
