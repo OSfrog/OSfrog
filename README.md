@@ -1,30 +1,17 @@
-<p align="center">
-  <img src="./assets/signal-header.svg" alt="OSfrog - Fullstack developer" width="100%" />
-</p>
-
 # Hello! ◒
 
-Fullstack developer building useful digital experiences, from developer tools to products people use in the room.
+<img src="./assets/profile-hero.svg" alt="Tommy Le - Fullstack Developer" width="960" />
 
-```text
-now crafting with Backstage at Volvo Cars
-```
+Full-stack developer building useful digital experiences, from **developer tools** to products people use in the room.
 
-`TypeScript / React` · `React Native` · `Backstage` · `Neovim` · `Fish` · `Starship`
+<img src="./assets/now-crafting.svg" alt="Now crafting with Backstage at Volvo Cars" width="900" />
 
-## Selected work
+<code>⌘ TypeScript / React</code> <code>◈ React Native</code> <code>⌁ Backstage</code> <code>~ Neovim · Fish · Starship</code>
 
-- **[Lista](https://www.listaevents.com/)** - A guest-list product for the door.
-- **[Nawasaki](https://www.nawasaki.com/)** - Digital presence for live events.
-- **[Backstage](https://backstage.io/)** - Open-source developer experience.
+### Selected work
 
-## Around my desk
+| Lista | Nawasaki | Backstage |
+| --- | --- | --- |
+| [A guest-list product for the door.](https://www.listaevents.com/) | [Digital presence for live events.](https://www.nawasaki.com/) | [Open-source developer experience.](https://backstage.io/) |
 
-- 📝 Editor: Neovim
-- 🐚 Shell: Fish Shell
-- ⚡ Prompt: Starship
-- 🖥️ Terminal: Alacritty
-
----
-
-The header animation is decorative. All profile information is available as regular text.
+<sub>The header and terminal motion are decorative. All profile information is available as regular text.</sub>

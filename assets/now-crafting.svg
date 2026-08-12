@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="58" viewBox="0 0 900 58" role="img" aria-labelledby="title desc">
+  <title id="title">Now crafting with Backstage at Volvo Cars</title>
+  <desc id="desc">A decorative terminal-style status line: now crafting with Backstage at Volvo Cars.</desc>
+  <rect width="900" height="58" rx="6" fill="#010409" stroke="#30363d"/>
+  <text x="18" y="36" fill="#b8ff65" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">$</text>
+  <text x="38" y="36" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16">now crafting with Backstage at Volvo Cars</text>
+  <rect x="438" y="20" width="2" height="20" fill="#b8ff65">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
