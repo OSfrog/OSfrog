@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="42" viewBox="0 0 900 42" role="img" aria-labelledby="title">
   <title id="title">TypeScript and React, React Native, Backstage, Neovim, Fish, and Starship</title>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">
-    <g><rect width="166" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">⌘</text><text x="32" y="26" fill="#c9d1d9">TypeScript / React</text></g>
-    <g transform="translate(176)"><rect width="136" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">◈</text><text x="32" y="26" fill="#c9d1d9">React Native</text></g>
-    <g transform="translate(322)"><rect width="108" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">⌁</text><text x="32" y="26" fill="#c9d1d9">Backstage</text></g>
-    <g transform="translate(440)"><rect width="228" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">~</text><text x="32" y="26" fill="#c9d1d9">Neovim · Fish · Starship</text></g>
+    <g><rect width="176" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">⌘</text><text x="32" y="26" fill="#c9d1d9">TypeScript / React</text></g>
+    <g transform="translate(186)"><rect width="133" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">◈</text><text x="32" y="26" fill="#c9d1d9">React Native</text></g>
+    <g transform="translate(329)"><rect width="112" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">⌁</text><text x="32" y="26" fill="#c9d1d9">Backstage</text></g>
+    <g transform="translate(451)"><rect width="227" height="32" y="5" rx="16" fill="#0d1117" stroke="#30363d"/><text x="14" y="26" fill="#69d6ff">~</text><text x="32" y="26" fill="#c9d1d9">Neovim · Fish · Starship</text></g>
   </g>
 </svg>
